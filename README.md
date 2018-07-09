@@ -1,6 +1,6 @@
 # OS-Lab
-Operating System Lab is a set of course projects which helps to understand several important parts of OS, including memory management, process management, Interprocess communication, file system ...<br>
-These labs simulate and achieve several mechanism in Unix.<br>
+Operating System Lab is a set of course projects which helps to understand several important parts of OS, including memory management, process management, interprocess communication, file system ...<br>
+These labs simulate and implement several mechanism in Unix.<br>
 Written in C.
 ## File Description
 Each folder represents a lab, containing 4 parts:
@@ -12,12 +12,12 @@ Each folder represents a lab, containing 4 parts:
 ### Lab01
 * Simulate UNIX variable partition memory management to implement allocation and release management of specific memory area using the algorithm of NextFit.
 ### Lab02
-* Using the message communication mechanism and the shared memory mechanism (using the signal light to implement synchronization and mutual exclusion between processes) in UNIX to realize data communication between two processes.
+* Using the message communication mechanism and the shared memory mechanism (using the signal light to implement synchronization and mutual exclusion between processes) in UNIX to implement data communication between two processes.
 * Using function `fork` to create a child process that allows the parent and child processes to collaborate and coordinately perform a function.
 ### Lab03
 * Further understanding, using, and mastering the system calls of files, standard subroutines of files, can use these basic file operations to complete complex file processing.
 * Make comparation of several methods mentioned as follows.
-#### 7 methods used in the lab to realize file copy:
+#### 7 methods used in the lab to implement file copy:
 * `read` and `write`
 * `fread` and `fwrite`
 * `fscanf` and `fprintf`
