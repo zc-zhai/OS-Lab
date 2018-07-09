@@ -1,0 +1,132 @@
+Current info of the memory space:
+address: 2000,size: 200
+address: 4000,size: 1800
+address: 6000,size: 1300
+address: 8000,size: 700
+address: 10000,size: 1100
+address: 12000,size: 900
+address: 14000,size: 1600
+address: 16000,size: 400
+address: 18000,size: 1200
+address: 20000,size: 800
+address: 22000,size: 100
+address: 24000,size: 1900
+address: 26000,size: 300
+address: 28000,size: 1700
+address: 30000,size: 1500
+address: 32000,size: 500
+address: 34000,size: 600
+address: 36000,size: 1400
+address: 38000,size: 1000
+address: 40000,size: 66
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Check your input!!!
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 2000
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 4000
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 14000
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 15400
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 15500
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 24000
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 28000
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 30000
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 36000
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> The address is 4500
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the argument(size) >>> Allocation false!
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> address: 2050,size: 150
+address: 5750,size: 50
+address: 6000,size: 1300
+address: 8000,size: 700
+address: 10000,size: 1100
+address: 12000,size: 900
+address: 16000,size: 400
+address: 18000,size: 1200
+address: 20000,size: 800
+address: 22000,size: 100
+address: 25800,size: 100
+address: 26000,size: 300
+address: 29000,size: 700
+address: 31000,size: 500
+address: 32000,size: 500
+address: 34000,size: 600
+address: 37000,size: 400
+address: 38000,size: 1000
+address: 40000,size: 66
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the arguments(size && address) >>> Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> address: 2050,size: 150
+address: 5750,size: 50
+address: 6000,size: 1300
+address: 8000,size: 700
+address: 10000,size: 1100
+address: 12000,size: 900
+address: 15400,size: 100
+address: 16000,size: 400
+address: 18000,size: 1200
+address: 20000,size: 800
+address: 22000,size: 100
+address: 25800,size: 100
+address: 26000,size: 300
+address: 29000,size: 700
+address: 31000,size: 500
+address: 32000,size: 500
+address: 34000,size: 600
+address: 37000,size: 400
+address: 38000,size: 1000
+address: 40000,size: 66
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the arguments(size && address) >>> Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> address: 2050,size: 150
+address: 5750,size: 50
+address: 6000,size: 1300
+address: 8000,size: 700
+address: 10000,size: 1100
+address: 12000,size: 900
+address: 15400,size: 200
+address: 16000,size: 400
+address: 18000,size: 1200
+address: 20000,size: 800
+address: 22000,size: 100
+address: 25800,size: 100
+address: 26000,size: 300
+address: 29000,size: 700
+address: 31000,size: 500
+address: 32000,size: 500
+address: 34000,size: 600
+address: 37000,size: 400
+address: 38000,size: 1000
+address: 40000,size: 66
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the arguments(size && address) >>> Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> address: 2050,size: 150
+address: 5750,size: 50
+address: 6000,size: 1300
+address: 8000,size: 700
+address: 10000,size: 1100
+address: 12000,size: 900
+address: 14000,size: 1600
+address: 16000,size: 400
+address: 18000,size: 1200
+address: 20000,size: 800
+address: 22000,size: 100
+address: 25800,size: 100
+address: 26000,size: 300
+address: 29000,size: 700
+address: 31000,size: 500
+address: 32000,size: 500
+address: 34000,size: 600
+address: 37000,size: 400
+address: 38000,size: 1000
+address: 40000,size: 66
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> Please input the arguments(size && address) >>> Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> address: 2050,size: 150
+address: 5750,size: 50
+address: 6000,size: 1300
+address: 8000,size: 700
+address: 10000,size: 1100
+address: 12000,size: 3600
+address: 16000,size: 400
+address: 18000,size: 1200
+address: 20000,size: 800
+address: 22000,size: 100
+address: 25800,size: 100
+address: 26000,size: 300
+address: 29000,size: 700
+address: 31000,size: 500
+address: 32000,size: 500
+address: 34000,size: 600
+address: 37000,size: 400
+address: 38000,size: 1000
+address: 40000,size: 66
+Choose the operation(m[alloc]/f[ree]/p[rint]/q[uit]) >>> 
